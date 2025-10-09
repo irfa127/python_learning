@@ -1,5 +1,5 @@
 
 a=10
-b=20
+b="hello world"
 print(type(a))
 print(type(b))
