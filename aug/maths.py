@@ -4,4 +4,4 @@ print(a + b)
 print(a - b)
 print(a * b)
 print(a / b)
-print(a % b)ww
+print(a % b)
